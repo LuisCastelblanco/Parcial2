@@ -1,0 +1,77 @@
+# Node.js dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Output directories
+/dist
+/build
+/.cache
+/.temp
+/.tmp
+
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDEs and editors
+/.idea
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.sublime-workspace
+/.c9/
+.project
+.classpath
+*.launch
+.settings/
+
+# Environment files
+.env
+.env.*
+*.env
+
+# Test and coverage
+/coverage
+/.nyc_output
+/junit.xml
+/test-results.xml
+
+# Runtime data
+pids
+*.pid
+*.pid.lock
+*.seed
+*.log
+*.state
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Lockfiles
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Miscellaneous
+/.editorconfig
+.eslintcache
+.prettierignore
+.prettiercache
+
+# Dependency directories
+jspm_packages/
+bower_components/
