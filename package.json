@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "@nestjs/mapped-types": "*",
-    "@nestjs/typeorm": "^10.0.2",
-    "pg": "^8.13.1",
-    "typeorm": "^0.3.20"
-  }
-}
